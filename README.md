@@ -1,2 +1,3 @@
 # easyconfig_example
-the package [https://github.com/lianglee123/easyconfig](easyconfig)  use example
+the package [easyconfig](https://github.com/lianglee123/easyconfig)  use example
+
